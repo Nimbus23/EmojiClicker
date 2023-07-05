@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\bin\Debug\CatchTheEmo.exe.config
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\bin\Debug\CatchTheEmo.exe
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\bin\Debug\CatchTheEmo.pdb
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.Properties.Resources.resources
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.csproj.GenerateResource.cache
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.exe
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmo.pdb
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmoji.Form1.resources
+C:\Users\1\Desktop\C#\CatchTheEmo\CatchTheEmo\obj\Debug\CatchTheEmoji.Game_Menu.resources
